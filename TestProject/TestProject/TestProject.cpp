@@ -7,7 +7,7 @@
 int main()
 {
 	printf("Kolka - suchka");
-	//bievkvhtgtg5t
+
     return 0;
 }
 
