@@ -6,9 +6,8 @@
 
 int main()
 {
-	printf("Kupchik - suchka");
+	printf("Kolya - pidr\n");
 	//Kirson gav gav
 	//Êטנ‏רא - זהול עובÿ!
     return 0;
 }
-
