@@ -1,4 +1,4 @@
-// KK is megaproger
+//Не закоммитил от моего имени в прошлый раз, хотя я зашел
 
 #include "stdafx.h"
 #include "windows.h"
